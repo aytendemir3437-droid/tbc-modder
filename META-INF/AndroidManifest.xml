@@ -2,10 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="jp.co.ponos.battlecats.modder"
     android:versionCode="1"
-    android:versionName="1.0-TBCCodder">
+    android:versionName="1.0">
 
     <application
-        android:label="TBC Modder v1.0"
+        android:label="TBC Modder 1.0"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher">
         
